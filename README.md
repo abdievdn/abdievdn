@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java
 - I am looking for a job in the IT field as a programmer
 - 📫 howToReachMe(() -> { 
-  - e-mail: @dim_a_dim, 
-  - telegramm: abdiev.dn@yandex.by
+  - e-mail: abdiev.dn@yandex.by, 
+  - telegram: @dim_a_dim
   - });
 
 <!---
